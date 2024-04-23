@@ -22,3 +22,4 @@ Arbitrum Niro stylus contract code and notes
 * <https://github.com/LimeChain/stylus-toolkit>
 * <https://github.com/cairoeth/rustmate> - just like solmate
 * <https://github.com/Prabhat1308/OpenStylus>
+* <https://github.com/cygaar/inkmate>
